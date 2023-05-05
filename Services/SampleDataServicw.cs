@@ -8,18 +8,18 @@ namespace Songs_Application.Services
     using Songs_Application.Models;
     
 
-    public class DummyDataGenerator : IDummyDataGenerator
+    public class SampleDataServicw : ISampleDataService
     {
         public List<AlbumModel>? Albums { get; set; }
 
-        public DummyDataGenerator()
+        public SampleDataServicw()
         {
             this.Albums = new List<AlbumModel>();
         }
 
         public List<AlbumModel> GenerateAlbums()
         {
-            StreamReader reader = new StreamReader("./Data/DummyData.json");
+            StreamReader reader = new StreamReader("./Data/SampleData.json");
             var json = reader.ReadToEnd();
 
             this.Albums = JsonConvert.DeserializeObject<List<AlbumModel>>(json);

@@ -6,9 +6,9 @@ namespace Songs_Application.WebApiController
 {
     public class AlbumWebApiController : Controller
     {
-        private readonly IDummyDataGenerator dummyDataGenerator;
+        private readonly ISampleDataService dummyDataGenerator;
 
-        public AlbumWebApiController(IDummyDataGenerator dummyDataGenerator)
+        public AlbumWebApiController(ISampleDataService dummyDataGenerator)
         {
             this.dummyDataGenerator = dummyDataGenerator;
         }

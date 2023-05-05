@@ -2,7 +2,7 @@
 {
     using Songs_Application.Models;
 
-    public interface IDummyDataGenerator
+    public interface ISampleDataService
     {
         List<AlbumModel> GenerateAlbums();
 
