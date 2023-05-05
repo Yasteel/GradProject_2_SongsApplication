@@ -1,0 +1,398 @@
+﻿[
+  {
+    "id": 1,
+    "title": "Hybrid Theory",
+    "artist": "Linkin Park",
+    "releaseYear": 2000,
+    "genre": "Nu metal, rap rock",
+    "sales": "27 million",
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/2/2a/Linkin_Park_Hybrid_Theory_Album_Cover.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Meteora",
+    "artist": "Linkin Park",
+    "releaseYear": 2003,
+    "genre": "Nu metal, rap rock",
+    "sales": "27 million",
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/0/0c/Linkin_Park_Meteora_Album_Cover.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Minutes to Midnight",
+    "artist": "Linkin Park",
+    "releaseYear": 2007,
+    "genre": "Alternative rock",
+    "sales": "20 million",
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/7/7a/Minutes_to_Midnight_cover.jpg"
+  },
+  {
+    "id": 4,
+    "title": "A Thousand Suns",
+    "artist": "Linkin Park",
+    "releaseYear": 2010,
+    "genre": "Alternative rock, experimental",
+    "sales": "5 million",
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/a/af/A_Thousand_Suns_Cover2.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Living Things",
+    "artist": "Linkin Park",
+    "releaseYear": 2012,
+    "genre": "Alternative rock, electronic rock",
+    "sales": "3 million",
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/c/c9/Linkin_Park_-_Living_Things.jpg"
+  },
+  {
+    "id": 6,
+    "title": "The Hunting Party",
+    "artist": "Linkin Park",
+    "releaseYear": 2014,
+    "genre": "Alternative rock, hard rock",
+    "sales": "1 million",
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/f/fa/Linkin_Park%2C_The_Hunting_Party%2C_album_art_final.jpg"
+  },
+  {
+    "id": 7,
+    "title": "One More Light",
+    "artist": "Linkin Park",
+    "releaseYear": 2017,
+    "genre": "Pop rock, electronic",
+    "sales": "1 million",
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/b/b2/Linkin_Park%2C_One_More_Light%2C_album_art_final.jpeg"
+  },
+  {
+    "id": 8,
+    "title": "Sounding the Seventh Trumpet",
+    "artist": "Avenged Sevenfold",
+    "releaseYear": 2001,
+    "genre": "Metalcore",
+    "sales": "Unknown",
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/9/98/Ststoriginal.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Waking the Fallen",
+    "artist": "Avenged Sevenfold",
+    "releaseYear": 2003,
+    "genre": "Metalcore, heavy metal",
+    "sales": "Certified Gold (US)",
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/a/a5/WakingTheFallen.jpg"
+  },
+  {
+    "id": 10,
+    "title": "City of Evil",
+    "artist": "Avenged Sevenfold",
+    "releaseYear": 2005,
+    "genre": "Heavy metal, hard rock",
+    "sales": "Certified Platinum (US)",
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/7/7b/City_of_Evil_album_cover.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Avenged Sevenfold",
+    "artist": "Avenged Sevenfold",
+    "releaseYear": 2007,
+    "genre": "Hard rock, heavy metal",
+    "sales": "Certified Platinum (US)",
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/7/76/Avenged_Sevenfold_cover_2007.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Nightmare",
+    "artist": "Avenged Sevenfold",
+    "releaseYear": 2010,
+    "genre": "Heavy metal, hard rock",
+    "sales": "Certified Gold (US)",
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/d/df/Avenged_Sevenfold_-_Nightmare.png"
+  },
+  {
+    "id": 13,
+    "title": "Hail to the King",
+    "artist": "Avenged Sevenfold",
+    "releaseYear": 2013,
+    "genre": "Heavy metal, hard rock",
+    "sales": "Certified Gold (US)",
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/4/46/A7XHailtotheKing.png"
+  },
+  {
+    "id": 14,
+    "title": "The Stage",
+    "artist": "Avenged Sevenfold",
+    "releaseYear": 2016,
+    "genre": "Heavy metal, progressive metal",
+    "sales": "Unknown",
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/7/7c/TheStageA7X.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Sick",
+    "artist": "Beartooth",
+    "releaseYear": 2013,
+    "genre": "Metalcore, post-hardcore",
+    "sales": "Unknown",
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/e/ee/Beartooth_Sick_EP_Album_Art.jpeg"
+  },
+  {
+    "id": 16,
+    "title": "Disgusting",
+    "artist": "Beartooth",
+    "releaseYear": 2014,
+    "genre": "Metalcore, post-hardcore, punk rock",
+    "sales": "Unknown",
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/5/54/Beartooth%2C_Disgusting_Album_Art.jpeg"
+  },
+  {
+    "id": 17,
+    "title": "Aggressive",
+    "artist": "Beartooth",
+    "releaseYear": 2016,
+    "genre": "Metalcore, post-hardcore, punk rock",
+    "sales": "Unknown",
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/8/88/Aggressive_cover_by_Beartooth.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Disease",
+    "artist": "Beartooth",
+    "releaseYear": 2018,
+    "genre": "Metalcore, post-hardcore",
+    "sales": "Unknown",
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/0/0a/Beartooth_Disease_cover.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Below",
+    "artist": "Beartooth",
+    "releaseYear": 2021,
+    "genre": "Metalcore, post-hardcore, hard rock",
+    "sales": "Unknown",
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/4/43/BeartoothBelow.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Race You to the Bottom",
+    "artist": "New Medicine",
+    "releaseYear": 2010,
+    "genre": "Alternative metal, hard rock",
+    "sales": "Unknown",
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/4/41/Race_You_to_the_Bottom_Cover.jpg"
+  },
+  {
+    "id": 21,
+    "title": "Breaking the Model",
+    "artist": "New Medicine",
+    "releaseYear": 2014,
+    "genre": "Alternative metal, hard rock",
+    "sales": "Unknown",
+    "coverArt": "https://crypticrock.com/wp-content/uploads/2014/07/new-med.jpg"
+  },
+  {
+    "id": 22,
+    "title": "Infest",
+    "artist": "Papa Roach",
+    "releaseYear": 2000,
+    "genre": "Nu metal, rap metal",
+    "sales": "3 million",
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/4/48/Papa_Roach_Infest.jpg"
+  },
+  {
+    "id": 23,
+    "title": "Lovehatetragedy",
+    "artist": "Papa Roach",
+    "releaseYear": 2002,
+    "genre": "Alternative metal, hard rock",
+    "sales": "Unknown",
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/c/c5/Papa_Roach_-_lovehatetragedy.jpg"
+  },
+  {
+    "id": 24,
+    "title": "Getting Away with Murder",
+    "artist": "Papa Roach",
+    "releaseYear": 2004,
+    "genre": "Alternative metal, hard rock, post-grunge",
+    "sales": "Unknown",
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/7/7e/Gettingawaywithmurder.jpg"
+  },
+  {
+    "id": 25,
+    "title": "The Paramour Sessions",
+    "artist": "Papa Roach",
+    "releaseYear": 2006,
+    "genre": "Alternative metal, hard rock",
+    "sales": "Unknown",
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/3/3a/The_paramour_sessions.jpg"
+  },
+  {
+    "id": 26,
+    "title": "Metamorphosis",
+    "artist": "Papa Roach",
+    "releaseYear": 2009,
+    "genre": "Alternative metal, hard rock",
+    "sales": "Unknown",
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/b/b2/Papa_Roach_Album_Cover.jpg"
+  },
+  {
+    "id": 27,
+    "title": "The Connection",
+    "artist": "Papa Roach",
+    "releaseYear": 2012,
+    "genre": "Alternative metal, hard rock, rap rock",
+    "sales": "Unknown",
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/4/47/The_Connection_Album_Cover.jpg"
+  },
+  {
+    "id": 28,
+    "title": "F.E.A.R.",
+    "artist": "Papa Roach",
+    "releaseYear": 2015,
+    "genre": "Alternative rock, hard rock",
+    "sales": "Unknown",
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/e/ec/PapaRoachFEAR.png"
+  },
+  {
+    "id": 29,
+    "title": "Crooked Teeth",
+    "artist": "Papa Roach",
+    "releaseYear": 2017,
+    "genre": "Alternative rock, hard rock",
+    "sales": "Unknown",
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/1/11/PapaRoachCrookedTeeth.jpg"
+  },
+  {
+    "id": 30,
+    "title": "Who Do You Trust?",
+    "artist": "Papa Roach",
+    "releaseYear": 2019,
+    "genre": "Alternative rock, pop rock, hip hop",
+    "sales": "Unknown",
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/4/46/Papa_Roach_%E2%80%93_Who_Do_You_Trust.png"
+  },
+  {
+    "id": 31,
+    "title": "Greatest Hits Vol. 2: The Better Noise Years",
+    "artist": "Papa Roach",
+    "releaseYear": 2020,
+    "genre": "Rock",
+    "sales": "Unknown",
+    "coverArt": "https://napalmrecords.com/pub/media/catalog/product/cache/2c98b5dedb058b51317c19b0b945bfc5/6/5/65672-65673_papa_roach_greatest_hits_vol_2_the_better_noise_years.jpg"
+  },
+  {
+    "id": 32,
+    "title": "The Party Scene",
+    "artist": "All Time Low",
+    "releaseYear": 2005,
+    "genre": "Pop punk, emo",
+    "sales": "Unknown",
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/4/4c/All_Time_Low_-_The_Party_Scene.PNG"
+  },
+  {
+    "id": 33,
+    "title": "So Wrong, It's Right",
+    "artist": "All Time Low",
+    "releaseYear": 2007,
+    "genre": "Pop punk, power pop",
+    "sales": "Platinum",
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/0/03/So_wrong_its_right.jpg"
+  },
+  {
+    "id": 34,
+    "title": "Nothing Personal",
+    "artist": "All Time Low",
+    "releaseYear": 2009,
+    "genre": "Pop punk, power pop",
+    "sales": "Gold",
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/7/7e/Alltimelownothingpersonal.jpg"
+  },
+  {
+    "id": 35,
+    "title": "Dirty Work",
+    "artist": "All Time Low",
+    "releaseYear": 2011,
+    "genre": "Pop punk, power pop",
+    "sales": "Gold",
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/2/29/Atl_dirtywork_cover.jpg"
+  },
+  {
+    "id": 36,
+    "title": "Don't Panic",
+    "artist": "All Time Low",
+    "releaseYear": 2012,
+    "genre": "Pop punk, power pop",
+    "sales": "Unknown",
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/f/f3/Don%27t_Panic.jpg"
+  },
+  {
+    "id": 37,
+    "title": "Future Hearts",
+    "artist": "All Time Low",
+    "releaseYear": 2015,
+    "genre": "Pop punk",
+    "sales": "Unknown",
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/a/a3/All_Time_Low%2C_Future_Hearts_album_cover%2C_2015.jpg"
+  },
+  {
+    "id": 38,
+    "title": "Last Young Renegade",
+    "artist": "All Time Low",
+    "releaseYear": 2017,
+    "genre": "Pop rock, alternative rock",
+    "sales": "Unknown",
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/0/02/Last_Young_Renegade.jpg"
+  },
+  {
+    "id": 39,
+    "title": "Wake Up, Sunshine",
+    "artist": "All Time Low",
+    "releaseYear": 2020,
+    "genre": "Pop punk, power pop",
+    "sales": "Unknown",
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/a/a8/Wake_Up_Sunshine_All_Time_Low.jpg"
+  },
+  {
+    "id": 40,
+    "title": "The Drug in Me Is You",
+    "artist": "Falling in Reverse",
+    "releaseYear": 2011,
+    "genre": "Post-hard, Rock, metalcore",
+    "sales": "Gold",
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/TDIMIY.jpg/220px-TDIMIY.jpg"
+  },
+  {
+    "id": 41,
+    "title": "Fashionably Late",
+    "artist": "Falling in Reverse",
+    "releaseYear": 2013,
+    "genre": "Post-hardcore, rap rock",
+    "sales": "Unknown",
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/8/8b/Fashionably_Late_Cover.jpg"
+  },
+  {
+    "id": 42,
+    "title": "Just Like You",
+    "artist": "Falling in Reverse",
+    "releaseYear": 2015,
+    "genre": "Post-hardcore, metalcore",
+    "sales": "Unknown",
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/thumb/1/14/Just_Like_You_cover_album.jpeg/220px-Just_Like_You_cover_album.jpeg"
+  },
+  {
+    "id": 43,
+    "title": "Coming Home",
+    "artist": "Falling in Reverse",
+    "releaseYear": 2017,
+    "genre": "Post-hardcore, alternative rock",
+    "sales": "Unknown",
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/9/96/Coming_Home_cover_album.jpeg"
+  },
+  {
+    "id": 44,
+    "title": "The Drug in Me Is You (Reimagined)",
+    "artist": "Falling in Reverse",
+    "releaseYear": 2020,
+    "genre": "Acoustic rock",
+    "sales": "Unknown",
+    "coverArt": "https://img.youtube.com/vi/B2cbhYihBWY/0.jpg"
+  }
+]

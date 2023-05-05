@@ -1,0 +1,42 @@
+﻿@model Songs_Application.Models.AlbumModel;
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1>Albums</h1>
+</div>
+
+@(
+    Html.DevExtreme().DataGrid<AlbumModel>()
+        .ID("AlbumDataGrid")
+        .HoverStateEnabled(true)
+        .ShowBorders(true)
+        .Paging(_ => _.PageSize(10))
+        .FilterRow(_ => _
+            .Visible(true)
+            .ApplyFilter(GridApplyFilterMode.Auto)
+        )
+        .Columns(c =>{
+            c.AddFor(_ => _.Id).Width(100);
+            c.AddFor(_ => _.Title);
+            c.AddFor(_ => _.CoverArt)
+                .Width(150)
+                .CellTemplate(
+                    @<text>
+                        <img src="<%- value %>" alt="<%- value %>" width="100%"/>
+                    </text>
+                );
+            c.AddFor(_ => _.Artist)
+                .GroupIndex(0);
+            c.AddFor(_ => _.Genre);
+            c.AddFor(_ => _.ReleaseYear);
+            c.AddFor(_ => _.Sales);
+        })
+        .DataSource(d => d
+            .Mvc()
+            .Controller("AlbumWebApi")
+            .LoadAction("Get")
+        )
+)
