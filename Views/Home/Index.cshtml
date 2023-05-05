@@ -14,10 +14,10 @@
         .HoverStateEnabled(true)
         .ShowBorders(true)
         .Paging(_ => _.PageSize(10))
-        .FilterRow(_ => _
+        @*.FilterRow(_ => _
             .Visible(true)
             .ApplyFilter(GridApplyFilterMode.Auto)
-        )
+        )*@
         .Columns(c =>{
             c.AddFor(_ => _.Id).Width(100);
             c.AddFor(_ => _.Title);
