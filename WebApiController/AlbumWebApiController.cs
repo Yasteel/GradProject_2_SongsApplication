@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using DevExtreme.AspNet.Mvc;
+using Microsoft.AspNetCore.Mvc;
 using Songs_Application.Interfaces;
 using Songs_Application.Models;
 
@@ -17,6 +18,13 @@ namespace Songs_Application.WebApiController
         public List<AlbumModel> Get()
         {
             return this.dummyDataGenerator.GenerateAlbums();
+        }
+
+        public List<Song> GetSongs(int id, DataSourceLoadOptions options)
+        {
+            var data = this.Get().FirstOrDefault(_ => _.Id == id);
+
+            return  data!.Songs ?? new ();
         }
     }
 }

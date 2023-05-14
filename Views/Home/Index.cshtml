@@ -20,19 +20,40 @@
         )*@
         .Columns(c =>{
             c.AddFor(_ => _.Id).Width(100);
-            c.AddFor(_ => _.Title);
             c.AddFor(_ => _.CoverArt)
                 .Width(150)
                 .CellTemplate(
                     @<text>
-                        <img src="<%- value %>" alt="<%- value %>" width="100%"/>
+                        <img src="<%- value %>" alt="<%- value %>" width="100%" />
                     </text>
-                );
+);
+            c.AddFor(_ => _.Title);
             c.AddFor(_ => _.Artist)
                 .GroupIndex(0);
             c.AddFor(_ => _.Genre);
             c.AddFor(_ => _.ReleaseYear);
             c.AddFor(_ => _.Sales);
+        })
+        .MasterDetail(md =>
+        {
+            md.Enabled(true);
+            md.Template(
+                @<text>
+                    @(Html.DevExtreme().DataGrid<Song>()
+                        .Columns(c => {
+                            c.AddFor(_ => _.Id)
+                                .Caption("#")
+                                .Width("100");
+                            c.AddFor(_ => _.Title);
+                        })
+                        .DataSource(d => d
+                            .Mvc()
+                            .Controller("AlbumWebApi")
+                            .LoadAction("GetSongs")
+                            .LoadParams(new {id = new JS("data.Id")})
+                        )
+                    )
+                </text>);
         })
         .DataSource(d => d
             .Mvc()

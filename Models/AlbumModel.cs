@@ -15,5 +15,7 @@
         public string? CoverArt { get; set; }
 
         public string? Sales { get; set; }
+
+        public List<Song> Songs { get; set; }
     }
 }

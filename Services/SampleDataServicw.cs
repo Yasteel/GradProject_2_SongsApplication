@@ -1,6 +1,4 @@
-﻿using System.Diagnostics.Metrics;
-
-namespace Songs_Application.Services
+﻿namespace Songs_Application.Services
 {
     using System.Collections.Generic;
     using Newtonsoft.Json;
@@ -27,4 +25,4 @@ namespace Songs_Application.Services
             return this.Albums;
         }
     }
-}			
+}

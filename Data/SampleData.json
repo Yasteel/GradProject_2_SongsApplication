@@ -6,7 +6,57 @@
     "releaseYear": 2000,
     "genre": "Nu metal, rap rock",
     "sales": "27 million",
-    "coverArt": "https://upload.wikimedia.org/wikipedia/en/2/2a/Linkin_Park_Hybrid_Theory_Album_Cover.jpg"
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/2/2a/Linkin_Park_Hybrid_Theory_Album_Cover.jpg",
+    "songs": [
+      {
+        "id": 1,
+        "title": "Papercut"
+      },
+      {
+        "id": 2,
+        "title": "One Step Closer"
+      },
+      {
+        "id": 3,
+        "title": "With You"
+      },
+      {
+        "id": 4,
+        "title": "Points of Authority"
+      },
+      {
+        "id": 5,
+        "title": "Crawling"
+      },
+      {
+        "id": 6,
+        "title": "Runaway"
+      },
+      {
+        "id": 7,
+        "title": "By Myself"
+      },
+      {
+        "id": 8,
+        "title": "In the End"
+      },
+      {
+        "id": 9,
+        "title": "A Place for My Head"
+      },
+      {
+        "id": 10,
+        "title": "Forgotten"
+      },
+      {
+        "id": 11,
+        "title": "Cure for the Itch"
+      },
+      {
+        "id": 12,
+        "title": "Pushing Me Away"
+      }
+    ]
   },
   {
     "id": 2,
@@ -15,7 +65,61 @@
     "releaseYear": 2003,
     "genre": "Nu metal, rap rock",
     "sales": "27 million",
-    "coverArt": "https://upload.wikimedia.org/wikipedia/en/0/0c/Linkin_Park_Meteora_Album_Cover.jpg"
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/0/0c/Linkin_Park_Meteora_Album_Cover.jpg",
+    "songs": [
+      {
+        "id": 1,
+        "title": "Foreword"
+      },
+      {
+        "id": 2,
+        "title": "Don't Stay"
+      },
+      {
+        "id": 3,
+        "title": "Somewhere I Belong"
+      },
+      {
+        "id": 4,
+        "title": "Lying from You"
+      },
+      {
+        "id": 5,
+        "title": "Hit the Floor"
+      },
+      {
+        "id": 6,
+        "title": "Easier to Run"
+      },
+      {
+        "id": 7,
+        "title": "Faint"
+      },
+      {
+        "id": 8,
+        "title": "Figure.09"
+      },
+      {
+        "id": 9,
+        "title": "Breaking the Habit"
+      },
+      {
+        "id": 10,
+        "title": "From the Inside"
+      },
+      {
+        "id": 11,
+        "title": "Nobody's Listening"
+      },
+      {
+        "id": 12,
+        "title": "Session"
+      },
+      {
+        "id": 13,
+        "title": "Numb"
+      }
+    ]
   },
   {
     "id": 3,
@@ -24,7 +128,57 @@
     "releaseYear": 2007,
     "genre": "Alternative rock",
     "sales": "20 million",
-    "coverArt": "https://upload.wikimedia.org/wikipedia/en/7/7a/Minutes_to_Midnight_cover.jpg"
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/7/7a/Minutes_to_Midnight_cover.jpg",
+    "songs": [
+      {
+        "id": 1,
+        "title": "Wake"
+      },
+      {
+        "id": 2,
+        "title": "Given Up"
+      },
+      {
+        "id": 3,
+        "title": "Leave Out All the Rest"
+      },
+      {
+        "id": 4,
+        "title": "Bleed It Out"
+      },
+      {
+        "id": 5,
+        "title": "Shadow of the Day"
+      },
+      {
+        "id": 6,
+        "title": "What I've Done"
+      },
+      {
+        "id": 7,
+        "title": "Hands Held High"
+      },
+      {
+        "id": 8,
+        "title": "No More Sorrow"
+      },
+      {
+        "id": 9,
+        "title": "Valentine's Day"
+      },
+      {
+        "id": 10,
+        "title": "In Between"
+      },
+      {
+        "id": 11,
+        "title": "In Pieces"
+      },
+      {
+        "id": 12,
+        "title": "The Little Things Give You Away"
+      }
+    ]
   },
   {
     "id": 4,
@@ -33,7 +187,69 @@
     "releaseYear": 2010,
     "genre": "Alternative rock, experimental",
     "sales": "5 million",
-    "coverArt": "https://upload.wikimedia.org/wikipedia/en/a/af/A_Thousand_Suns_Cover2.jpg"
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/a/af/A_Thousand_Suns_Cover2.jpg",
+    "songs": [
+      {
+        "id": 1,
+        "title": "The Requiem"
+      },
+      {
+        "id": 2,
+        "title": "The Radiance"
+      },
+      {
+        "id": 3,
+        "title": "Burning in the Skies"
+      },
+      {
+        "id": 4,
+        "title": "Empty Spaces"
+      },
+      {
+        "id": 5,
+        "title": "When They Come for Me"
+      },
+      {
+        "id": 6,
+        "title": "Robot Boy"
+      },
+      {
+        "id": 7,
+        "title": "Jornada del Muerto"
+      },
+      {
+        "id": 8,
+        "title": "Waiting for the End"
+      },
+      {
+        "id": 9,
+        "title": "Blackout"
+      },
+      {
+        "id": 10,
+        "title": "Wretches and Kings"
+      },
+      {
+        "id": 11,
+        "title": "Wisdom, Justice, and Love"
+      },
+      {
+        "id": 12,
+        "title": "Iridescent"
+      },
+      {
+        "id": 13,
+        "title": "Fallout"
+      },
+      {
+        "id": 14,
+        "title": "The Catalyst"
+      },
+      {
+        "id": 15,
+        "title": "The Messenger"
+      }
+    ]
   },
   {
     "id": 5,
@@ -42,7 +258,57 @@
     "releaseYear": 2012,
     "genre": "Alternative rock, electronic rock",
     "sales": "3 million",
-    "coverArt": "https://upload.wikimedia.org/wikipedia/en/c/c9/Linkin_Park_-_Living_Things.jpg"
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/c/c9/Linkin_Park_-_Living_Things.jpg",
+    "songs": [
+      {
+        "id": 1,
+        "title": "Lost in the Echo"
+      },
+      {
+        "id": 2,
+        "title": "In My Remains"
+      },
+      {
+        "id": 3,
+        "title": "Burn It Down"
+      },
+      {
+        "id": 4,
+        "title": "Lies Greed Misery"
+      },
+      {
+        "id": 5,
+        "title": "I'll Be Gone"
+      },
+      {
+        "id": 6,
+        "title": "Castle of Glass"
+      },
+      {
+        "id": 7,
+        "title": "Victimized"
+      },
+      {
+        "id": 8,
+        "title": "Roads Untraveled"
+      },
+      {
+        "id": 9,
+        "title": "Skin to Bone"
+      },
+      {
+        "id": 10,
+        "title": "Until It Breaks"
+      },
+      {
+        "id": 11,
+        "title": "Tinfoil"
+      },
+      {
+        "id": 12,
+        "title": "Powerless"
+      }
+    ]
   },
   {
     "id": 6,
@@ -51,7 +317,57 @@
     "releaseYear": 2014,
     "genre": "Alternative rock, hard rock",
     "sales": "1 million",
-    "coverArt": "https://upload.wikimedia.org/wikipedia/en/f/fa/Linkin_Park%2C_The_Hunting_Party%2C_album_art_final.jpg"
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/f/fa/Linkin_Park%2C_The_Hunting_Party%2C_album_art_final.jpg",
+    "songs": [
+      {
+        "id": 1,
+        "title": "Keys to the Kingdom"
+      },
+      {
+        "id": 2,
+        "title": "All for Nothing"
+      },
+      {
+        "id": 3,
+        "title": "Guilty All the Same"
+      },
+      {
+        "id": 4,
+        "title": "The Summoning"
+      },
+      {
+        "id": 5,
+        "title": "War"
+      },
+      {
+        "id": 6,
+        "title": "Wastelands"
+      },
+      {
+        "id": 7,
+        "title": "Until It's Gone"
+      },
+      {
+        "id": 8,
+        "title": "Rebellion"
+      },
+      {
+        "id": 9,
+        "title": "Mark the Graves"
+      },
+      {
+        "id": 10,
+        "title": "Drawbar"
+      },
+      {
+        "id": 11,
+        "title": "Final Masquerade"
+      },
+      {
+        "id": 12,
+        "title": "A Line in the Sand"
+      }
+    ]
   },
   {
     "id": 7,
@@ -60,7 +376,49 @@
     "releaseYear": 2017,
     "genre": "Pop rock, electronic",
     "sales": "1 million",
-    "coverArt": "https://upload.wikimedia.org/wikipedia/en/b/b2/Linkin_Park%2C_One_More_Light%2C_album_art_final.jpeg"
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/b/b2/Linkin_Park%2C_One_More_Light%2C_album_art_final.jpeg",
+    "song": [
+      {
+        "id": 1,
+        "title": "Nobody Can Save Me"
+      },
+      {
+        "id": 2,
+        "title": "Good Goodbye"
+      },
+      {
+        "id": 3,
+        "title": "Talking to Myself"
+      },
+      {
+        "id": 4,
+        "title": "Battle Symphony"
+      },
+      {
+        "id": 5,
+        "title": "Invisible"
+      },
+      {
+        "id": 6,
+        "title": "Heavy"
+      },
+      {
+        "id": 7,
+        "title": "Sorry for Now"
+      },
+      {
+        "id": 8,
+        "title": "Halfway Right"
+      },
+      {
+        "id": 9,
+        "title": "One More Light"
+      },
+      {
+        "id": 10,
+        "title": "Sharp Edges"
+      }
+    ]
   },
   {
     "id": 8,
@@ -69,7 +427,65 @@
     "releaseYear": 2001,
     "genre": "Metalcore",
     "sales": "Unknown",
-    "coverArt": "https://upload.wikimedia.org/wikipedia/en/9/98/Ststoriginal.jpg"
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/9/98/Ststoriginal.jpg",
+    "songs": [
+      {
+        "id": 1,
+        "title": "To End the Rapture"
+      },
+      {
+        "id": 2,
+        "title": "Turn the Other Way"
+      },
+      {
+        "id": 3,
+        "title": "Darkness Surrounding"
+      },
+      {
+        "id": 4,
+        "title": "The Art of Subconscious Illusion"
+      },
+      {
+        "id": 5,
+        "title": "We Come Out at Night"
+      },
+      {
+        "id": 6,
+        "title": "Lips of Deceit"
+      },
+      {
+        "id": 7,
+        "title": "Warmness on the Soul"
+      },
+      {
+        "id": 8,
+        "title": "An Epic of Time Wasted"
+      },
+      {
+        "id": 9,
+        "title": "Breaking Their Hold"
+      },
+      {
+        "id": 10,
+        "title": "Forgotten Faces"
+      },
+      {
+        "id": 11,
+        "title": "Thick and Thin"
+      },
+      {
+        "id": 12,
+        "title": "Streets"
+      },
+      {
+        "id": 13,
+        "title": "Shattered by Broken Dreams"
+      },
+      {
+        "id": 14,
+        "title": "To End the Rapture (Heavy Metal Version)"
+      }
+    ]
   },
   {
     "id": 9,
@@ -78,7 +494,57 @@
     "releaseYear": 2003,
     "genre": "Metalcore, heavy metal",
     "sales": "Certified Gold (US)",
-    "coverArt": "https://upload.wikimedia.org/wikipedia/en/a/a5/WakingTheFallen.jpg"
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/a/a5/WakingTheFallen.jpg",
+    "songs": [
+      {
+        "id": 1,
+        "title": "Waking the Fallen"
+      },
+      {
+        "id": 2,
+        "title": "Unholy Confessions"
+      },
+      {
+        "id": 3,
+        "title": "Chapter Four"
+      },
+      {
+        "id": 4,
+        "title": "Remenissions"
+      },
+      {
+        "id": 5,
+        "title": "Desecrate Through Reverence"
+      },
+      {
+        "id": 6,
+        "title": "Eternal Rest"
+      },
+      {
+        "id": 7,
+        "title": "Second Heartbeat"
+      },
+      {
+        "id": 8,
+        "title": "Radiant Eclipse"
+      },
+      {
+        "id": 9,
+        "title": "I Won't See You Tonight (Part 1)"
+      },
+      {
+        "id": 10,
+        "title": "I Won't See You Tonight (Part 2)"
+      },
+      {
+        "id": 11,
+        "title": "Clairvoyant Disease"
+      },
+      {
+        "id": 12,
+        "title": "And All Things Will End"
+      }
+    ]
   },
   {
     "id": 10,
@@ -87,7 +553,53 @@
     "releaseYear": 2005,
     "genre": "Heavy metal, hard rock",
     "sales": "Certified Platinum (US)",
-    "coverArt": "https://upload.wikimedia.org/wikipedia/en/7/7b/City_of_Evil_album_cover.jpg"
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/7/7b/City_of_Evil_album_cover.jpg",
+    "songs": [
+      {
+        "id": 1,
+        "title": "Beast and the Harlot"
+      },
+      {
+        "id": 2,
+        "title": "Burn It Down"
+      },
+      {
+        "id": 3,
+        "title": "Blinded in Chains"
+      },
+      {
+        "id": 4,
+        "title": "Bat Country"
+      },
+      {
+        "id": 5,
+        "title": "Trashed and Scattered"
+      },
+      {
+        "id": 6,
+        "title": "Seize the Day"
+      },
+      {
+        "id": 7,
+        "title": "Sidewinder"
+      },
+      {
+        "id": 8,
+        "title": "The Wicked End"
+      },
+      {
+        "id": 9,
+        "title": "Strength of the World"
+      },
+      {
+        "id": 10,
+        "title": "Betrayed"
+      },
+      {
+        "id": 11,
+        "title": "M.I.A."
+      }
+    ]
   },
   {
     "id": 11,
@@ -96,7 +608,49 @@
     "releaseYear": 2007,
     "genre": "Hard rock, heavy metal",
     "sales": "Certified Platinum (US)",
-    "coverArt": "https://upload.wikimedia.org/wikipedia/en/7/76/Avenged_Sevenfold_cover_2007.jpg"
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/7/76/Avenged_Sevenfold_cover_2007.jpg",
+    "songs": [
+      {
+        "id": 1,
+        "title": "Critical Acclaim"
+      },
+      {
+        "id": 2,
+        "title": "Almost Easy"
+      },
+      {
+        "id": 3,
+        "title": "Scream"
+      },
+      {
+        "id": 4,
+        "title": "Afterlife"
+      },
+      {
+        "id": 5,
+        "title": "Gunslinger"
+      },
+      {
+        "id": 6,
+        "title": "Unbound (The Wild Ride)"
+      },
+      {
+        "id": 7,
+        "title": "Brompton Cocktail"
+      },
+      {
+        "id": 8,
+        "title": "Lost"
+      },
+      {
+        "id": 9,
+        "title": "A Little Piece of Heaven"
+      },
+      {
+        "id": 10,
+        "title": "Dear God"
+      }
+    ]
   },
   {
     "id": 12,
@@ -105,7 +659,53 @@
     "releaseYear": 2010,
     "genre": "Heavy metal, hard rock",
     "sales": "Certified Gold (US)",
-    "coverArt": "https://upload.wikimedia.org/wikipedia/en/d/df/Avenged_Sevenfold_-_Nightmare.png"
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/d/df/Avenged_Sevenfold_-_Nightmare.png",
+    "songs": [
+      {
+        "id": 1,
+        "title": "Nightmare"
+      },
+      {
+        "id": 2,
+        "title": "Welcome to the Family"
+      },
+      {
+        "id": 3,
+        "title": "Danger Line"
+      },
+      {
+        "id": 4,
+        "title": "Buried Alive"
+      },
+      {
+        "id": 5,
+        "title": "Natural Born Killer"
+      },
+      {
+        "id": 6,
+        "title": "So Far Away"
+      },
+      {
+        "id": 7,
+        "title": "God Hates Us"
+      },
+      {
+        "id": 8,
+        "title": "Victim"
+      },
+      {
+        "id": 9,
+        "title": "Tonight the World Dies"
+      },
+      {
+        "id": 10,
+        "title": "Fiction"
+      },
+      {
+        "id": 11,
+        "title": "Save Me"
+      }
+    ]
   },
   {
     "id": 13,
@@ -114,7 +714,49 @@
     "releaseYear": 2013,
     "genre": "Heavy metal, hard rock",
     "sales": "Certified Gold (US)",
-    "coverArt": "https://upload.wikimedia.org/wikipedia/en/4/46/A7XHailtotheKing.png"
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/4/46/A7XHailtotheKing.png",
+    "songs": [
+      {
+        "id": 1,
+        "title": "Shepherd of Fire"
+      },
+      {
+        "id": 2,
+        "title": "Hail to the King"
+      },
+      {
+        "id": 3,
+        "title": "Doing Time"
+      },
+      {
+        "id": 4,
+        "title": "This Means War"
+      },
+      {
+        "id": 5,
+        "title": "Requiem"
+      },
+      {
+        "id": 6,
+        "title": "Crimson Day"
+      },
+      {
+        "id": 7,
+        "title": "Heretic"
+      },
+      {
+        "id": 8,
+        "title": "Coming Home"
+      },
+      {
+        "id": 9,
+        "title": "Planets"
+      },
+      {
+        "id": 10,
+        "title": "Acid Rain"
+      }
+    ]
   },
   {
     "id": 14,
@@ -123,7 +765,53 @@
     "releaseYear": 2016,
     "genre": "Heavy metal, progressive metal",
     "sales": "Unknown",
-    "coverArt": "https://upload.wikimedia.org/wikipedia/en/7/7c/TheStageA7X.jpg"
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/7/7c/TheStageA7X.jpg",
+    "songs": [
+      {
+        "id": 1,
+        "title": "The Stage"
+      },
+      {
+        "id": 2,
+        "title": "Paradigm"
+      },
+      {
+        "id": 3,
+        "title": "Sunny Disposition"
+      },
+      {
+        "id": 4,
+        "title": "God Damn"
+      },
+      {
+        "id": 5,
+        "title": "Creating God"
+      },
+      {
+        "id": 6,
+        "title": "Angels"
+      },
+      {
+        "id": 7,
+        "title": "Simulation"
+      },
+      {
+        "id": 8,
+        "title": "Higher"
+      },
+      {
+        "id": 9,
+        "title": "Roman Sky"
+      },
+      {
+        "id": 10,
+        "title": "Fermi Paradox"
+      },
+      {
+        "id": 11,
+        "title": "Exist"
+      }
+    ]
   },
   {
     "id": 15,
@@ -132,7 +820,61 @@
     "releaseYear": 2013,
     "genre": "Metalcore, post-hardcore",
     "sales": "Unknown",
-    "coverArt": "https://upload.wikimedia.org/wikipedia/en/e/ee/Beartooth_Sick_EP_Album_Art.jpeg"
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/e/ee/Beartooth_Sick_EP_Album_Art.jpeg",
+    "songs": [
+      {
+        "id": 1,
+        "title": "The Lines"
+      },
+      {
+        "id": 2,
+        "title": "Beaten in Lips"
+      },
+      {
+        "id": 3,
+        "title": "Body Bag"
+      },
+      {
+        "id": 4,
+        "title": "In Between"
+      },
+      {
+        "id": 5,
+        "title": "Relapsing"
+      },
+      {
+        "id": 6,
+        "title": "Ignorance Is Bliss"
+      },
+      {
+        "id": 7,
+        "title": "I Have a Problem"
+      },
+      {
+        "id": 8,
+        "title": "One More"
+      },
+      {
+        "id": 9,
+        "title": "Go Be the Voice"
+      },
+      {
+        "id": 10,
+        "title": "Pick Your Poison"
+      },
+      {
+        "id": 11,
+        "title": "Set Me on Fire"
+      },
+      {
+        "id": 12,
+        "title": "My Understandings"
+      },
+      {
+        "id": 13,
+        "title": "Dead"
+      }
+    ]
   },
   {
     "id": 16,
@@ -141,7 +883,57 @@
     "releaseYear": 2014,
     "genre": "Metalcore, post-hardcore, punk rock",
     "sales": "Unknown",
-    "coverArt": "https://upload.wikimedia.org/wikipedia/en/5/54/Beartooth%2C_Disgusting_Album_Art.jpeg"
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/5/54/Beartooth%2C_Disgusting_Album_Art.jpeg",
+    "songs": [
+      {
+        "id": 1,
+        "title": "The Lines"
+      },
+      {
+        "id": 2,
+        "title": "Beaten in Lips"
+      },
+      {
+        "id": 3,
+        "title": "Body Bag"
+      },
+      {
+        "id": 4,
+        "title": "In Between"
+      },
+      {
+        "id": 5,
+        "title": "Relapsing"
+      },
+      {
+        "id": 6,
+        "title": "Ignorance Is Bliss"
+      },
+      {
+        "id": 7,
+        "title": "I Have a Problem"
+      },
+      {
+        "id": 8,
+        "title": "One More"
+      },
+      {
+        "id": 9,
+        "title": "Me in My Own Head"
+      },
+      {
+        "id": 10,
+        "title": "Keep Your American Dream"
+      },
+      {
+        "id": 11,
+        "title": "Dead"
+      },
+      {
+        "id": 12,
+        "title": "Sick and Disgusting"
+      }
+    ]
   },
   {
     "id": 17,
@@ -150,7 +942,61 @@
     "releaseYear": 2016,
     "genre": "Metalcore, post-hardcore, punk rock",
     "sales": "Unknown",
-    "coverArt": "https://upload.wikimedia.org/wikipedia/en/8/88/Aggressive_cover_by_Beartooth.jpg"
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/8/88/Aggressive_cover_by_Beartooth.jpg",
+    "songs": [
+      {
+        "id": 1,
+        "title": "Aggressive"
+      },
+      {
+        "id": 2,
+        "title": "Hated"
+      },
+      {
+        "id": 3,
+        "title": "Loser"
+      },
+      {
+        "id": 4,
+        "title": "Fair Weather Friend"
+      },
+      {
+        "id": 5,
+        "title": "Burnout"
+      },
+      {
+        "id": 6,
+        "title": "Sick of Me"
+      },
+      {
+        "id": 7,
+        "title": "Censored"
+      },
+      {
+        "id": 8,
+        "title": "Always Dead"
+      },
+      {
+        "id": 9,
+        "title": "However You Want It Said"
+      },
+      {
+        "id": 10,
+        "title": "Find a Way"
+      },
+      {
+        "id": 11,
+        "title": "Rock Is Dead"
+      },
+      {
+        "id": 12,
+        "title": "King of Anything"
+      },
+      {
+        "id": 13,
+        "title": "Hated (Acoustic Version)"
+      }
+    ]
   },
   {
     "id": 18,
@@ -159,7 +1005,57 @@
     "releaseYear": 2018,
     "genre": "Metalcore, post-hardcore",
     "sales": "Unknown",
-    "coverArt": "https://upload.wikimedia.org/wikipedia/en/0/0a/Beartooth_Disease_cover.jpg"
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/0/0a/Beartooth_Disease_cover.jpg",
+    "songs": [
+      {
+        "id": 1,
+        "title": "Greatness or Death"
+      },
+      {
+        "id": 2,
+        "title": "Disease"
+      },
+      {
+        "id": 3,
+        "title": "Fire"
+      },
+      {
+        "id": 4,
+        "title": "You Never Know"
+      },
+      {
+        "id": 5,
+        "title": "Bad Listener"
+      },
+      {
+        "id": 6,
+        "title": "Afterall"
+      },
+      {
+        "id": 7,
+        "title": "Manipulation"
+      },
+      {
+        "id": 8,
+        "title": "Enemy"
+      },
+      {
+        "id": 9,
+        "title": "Believe"
+      },
+      {
+        "id": 10,
+        "title": "Infection"
+      },
+      {
+        "id": 11,
+        "title": "Used and Abused"
+      },
+      {
+        "id": 12,
+        "title": "Clever"
+      }
+    ]
   },
   {
     "id": 19,
@@ -168,7 +1064,57 @@
     "releaseYear": 2021,
     "genre": "Metalcore, post-hardcore, hard rock",
     "sales": "Unknown",
-    "coverArt": "https://upload.wikimedia.org/wikipedia/en/4/43/BeartoothBelow.jpg"
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/4/43/BeartoothBelow.jpg",
+    "songs": [
+      {
+        "id": 1,
+        "title": "Below"
+      },
+      {
+        "id": 2,
+        "title": "Devastation"
+      },
+      {
+        "id": 3,
+        "title": "The Past Is Dead"
+      },
+      {
+        "id": 4,
+        "title": "Fed Up"
+      },
+      {
+        "id": 5,
+        "title": "Dominate"
+      },
+      {
+        "id": 6,
+        "title": "No Return"
+      },
+      {
+        "id": 7,
+        "title": "Phantom Pain"
+      },
+      {
+        "id": 8,
+        "title": "Skin"
+      },
+      {
+        "id": 9,
+        "title": "Hell of It"
+      },
+      {
+        "id": 10,
+        "title": "I Won't Give It Up"
+      },
+      {
+        "id": 11,
+        "title": "The Answer"
+      },
+      {
+        "id": 12,
+        "title": "The Last Riff"
+      }
+    ]
   },
   {
     "id": 20,
@@ -177,7 +1123,41 @@
     "releaseYear": 2010,
     "genre": "Alternative metal, hard rock",
     "sales": "Unknown",
-    "coverArt": "https://upload.wikimedia.org/wikipedia/en/4/41/Race_You_to_the_Bottom_Cover.jpg"
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/4/41/Race_You_to_the_Bottom_Cover.jpg",
+    "songs": [
+      {
+        "id": 1,
+        "title": "Laid"
+      },
+      {
+        "id": 2,
+        "title": "Rich Kids"
+      },
+      {
+        "id": 3,
+        "title": "Little Sister"
+      },
+      {
+        "id": 4,
+        "title": "Baby's Gone"
+      },
+      {
+        "id": 5,
+        "title": "Race You to the Bottom"
+      },
+      {
+        "id": 6,
+        "title": "Sunn Goes Down"
+      },
+      {
+        "id": 7,
+        "title": "End of the World"
+      },
+      {
+        "id": 8,
+        "title": "Baby's Gone (Acoustic Version)"
+      }
+    ]
   },
   {
     "id": 21,
@@ -186,7 +1166,49 @@
     "releaseYear": 2014,
     "genre": "Alternative metal, hard rock",
     "sales": "Unknown",
-    "coverArt": "https://crypticrock.com/wp-content/uploads/2014/07/new-med.jpg"
+    "coverArt": "https://crypticrock.com/wp-content/uploads/2014/07/new-med.jpg",
+    "songs": [
+      {
+        "id": 1,
+        "title": "Breaking the Model"
+      },
+      {
+        "id": 2,
+        "title": "Desire Into Gold"
+      },
+      {
+        "id": 3,
+        "title": "One Too Many"
+      },
+      {
+        "id": 4,
+        "title": "Breaking Up"
+      },
+      {
+        "id": 5,
+        "title": "All About Me"
+      },
+      {
+        "id": 6,
+        "title": "Like a Rose"
+      },
+      {
+        "id": 7,
+        "title": "World Class F**k Up"
+      },
+      {
+        "id": 8,
+        "title": "Dead Love Song"
+      },
+      {
+        "id": 9,
+        "title": "American Wasted"
+      },
+      {
+        "id": 10,
+        "title": "Save Me"
+      }
+    ]
   },
   {
     "id": 22,
@@ -195,7 +1217,54 @@
     "releaseYear": 2000,
     "genre": "Nu metal, rap metal",
     "sales": "3 million",
-    "coverArt": "https://upload.wikimedia.org/wikipedia/en/4/48/Papa_Roach_Infest.jpg"
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/4/48/Papa_Roach_Infest.jpg",
+    "songs": [
+      {
+        "id": 1,
+        "title": "Infest"
+      },
+      {
+        "id": 2,
+        "title": "Last Resort"
+      },
+      {
+        "id": 3,
+        "title": "Broken Home"
+      },
+      {
+        "id": 4,
+        "title": "Dead Cell"
+      },
+      {
+        "id": 5,
+        "title": "Between Angels and Insects"
+      },
+      {
+        "id": 6,
+        "title": "Blood Brothers"
+      },
+      {
+        "id": 7,
+        "title": "Revenge"
+      },
+      {
+        "id": 8,
+        "title": "Snakes"
+      },
+      {
+        "id": 9,
+        "title": "Never Enough"
+      },
+      {
+        "id": 10,
+        "title": "Binge"
+      },
+      {
+        "id": 11,
+        "title": "Thrown Away"
+      }
+    ]
+
   },
   {
     "id": 23,
@@ -204,7 +1273,57 @@
     "releaseYear": 2002,
     "genre": "Alternative metal, hard rock",
     "sales": "Unknown",
-    "coverArt": "https://upload.wikimedia.org/wikipedia/en/c/c5/Papa_Roach_-_lovehatetragedy.jpg"
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/c/c5/Papa_Roach_-_lovehatetragedy.jpg",
+    "songs": [
+      {
+        "id": 1,
+        "title": "M-80 (Explosive Energy Movement)"
+      },
+      {
+        "id": 2,
+        "title": "Life Is a Bullet"
+      },
+      {
+        "id": 3,
+        "title": "Time and Time Again"
+      },
+      {
+        "id": 4,
+        "title": "Walking Thru Barbed Wire"
+      },
+      {
+        "id": 5,
+        "title": "Decompression Period"
+      },
+      {
+        "id": 6,
+        "title": "Born with Nothing, Die with Everything"
+      },
+      {
+        "id": 7,
+        "title": "She Loves Me Not"
+      },
+      {
+        "id": 8,
+        "title": "Singular Indestructible Droid"
+      },
+      {
+        "id": 9,
+        "title": "Black Clouds"
+      },
+      {
+        "id": 10,
+        "title": "Code of Energy"
+      },
+      {
+        "id": 11,
+        "title": "Lovehatetragedy"
+      },
+      {
+        "id": 12,
+        "title": "Gouge Away"
+      }
+    ]
   },
   {
     "id": 24,
@@ -213,7 +1332,62 @@
     "releaseYear": 2004,
     "genre": "Alternative metal, hard rock, post-grunge",
     "sales": "Unknown",
-    "coverArt": "https://upload.wikimedia.org/wikipedia/en/7/7e/Gettingawaywithmurder.jpg"
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/7/7e/Gettingawaywithmurder.jpg",
+    "songs": [
+      {
+        "id": 1,
+        "title": "Blood (Empty Promises)"
+      },
+      {
+        "id": 2,
+        "title": "Not Listening"
+      },
+      {
+        "id": 3,
+        "title": "Stop Looking Start Seeing"
+      },
+      {
+        "id": 4,
+        "title": "Take Me"
+      },
+      {
+        "id": 5,
+        "title": "Getting Away with Murder"
+      },
+      {
+        "id": 6,
+        "title": "Be Free"
+      },
+      {
+        "id": 7,
+        "title": "Done with You"
+      },
+      {
+        "id": 8,
+        "title": "Scars"
+      },
+      {
+        "id": 9,
+        "title": "Sometimes"
+      },
+      {
+        "id": 10,
+        "title": "Blanket of Fear"
+      },
+      {
+        "id": 11,
+        "title": "Tyranny of Normality"
+      },
+      {
+        "id": 12,
+        "title": "Do or Die"
+      },
+      {
+        "id": 13,
+        "title": "Harder Than a Coffin Nail"
+      }
+    ]
+
   },
   {
     "id": 25,
@@ -222,7 +1396,62 @@
     "releaseYear": 2006,
     "genre": "Alternative metal, hard rock",
     "sales": "Unknown",
-    "coverArt": "https://upload.wikimedia.org/wikipedia/en/3/3a/The_paramour_sessions.jpg"
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/3/3a/The_paramour_sessions.jpg",
+    "songs": [
+      {
+        "id": 1,
+        "title": "...To Be Loved"
+      },
+      {
+        "id": 2,
+        "title": "Alive (N' Out of Control)"
+      },
+      {
+        "id": 3,
+        "title": "Crash"
+      },
+      {
+        "id": 4,
+        "title": "The World Around You"
+      },
+      {
+        "id": 5,
+        "title": "Forever"
+      },
+      {
+        "id": 6,
+        "title": "I Devise My Own Demise"
+      },
+      {
+        "id": 7,
+        "title": "Time Is Running Out"
+      },
+      {
+        "id": 8,
+        "title": "What Do You Do?"
+      },
+      {
+        "id": 9,
+        "title": "My Heart Is a Fist"
+      },
+      {
+        "id": 10,
+        "title": "No More Secrets"
+      },
+      {
+        "id": 11,
+        "title": "Reckless"
+      },
+      {
+        "id": 12,
+        "title": "The Fire"
+      },
+      {
+        "id": 13,
+        "title": "Roses on My Grave"
+      }
+    ]
+
   },
   {
     "id": 26,
@@ -231,7 +1460,58 @@
     "releaseYear": 2009,
     "genre": "Alternative metal, hard rock",
     "sales": "Unknown",
-    "coverArt": "https://upload.wikimedia.org/wikipedia/en/b/b2/Papa_Roach_Album_Cover.jpg"
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/b/b2/Papa_Roach_Album_Cover.jpg",
+    "songs": [
+      {
+        "id": 1,
+        "title": "Days of War"
+      },
+      {
+        "id": 2,
+        "title": "Change or Die"
+      },
+      {
+        "id": 3,
+        "title": "Hollywood Whore"
+      },
+      {
+        "id": 4,
+        "title": "I Almost Told You That I Loved You"
+      },
+      {
+        "id": 5,
+        "title": "Lifeline"
+      },
+      {
+        "id": 6,
+        "title": "Had Enough"
+      },
+      {
+        "id": 7,
+        "title": "Live This Down"
+      },
+      {
+        "id": 8,
+        "title": "March Out of the Darkness"
+      },
+      {
+        "id": 9,
+        "title": "Into the Light"
+      },
+      {
+        "id": 10,
+        "title": "Carry Me"
+      },
+      {
+        "id": 11,
+        "title": "Nights of Love"
+      },
+      {
+        "id": 12,
+        "title": "State of Emergency"
+      }
+    ]
+
   },
   {
     "id": 27,
@@ -240,7 +1520,57 @@
     "releaseYear": 2012,
     "genre": "Alternative metal, hard rock, rap rock",
     "sales": "Unknown",
-    "coverArt": "https://upload.wikimedia.org/wikipedia/en/4/47/The_Connection_Album_Cover.jpg"
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/4/47/The_Connection_Album_Cover.jpg",
+    "songs": [
+      {
+        "id": 1,
+        "title": "Engage"
+      },
+      {
+        "id": 2,
+        "title": "Still Swingin"
+      },
+      {
+        "id": 3,
+        "title": "Where Did the Angels Go?"
+      },
+      {
+        "id": 4,
+        "title": "Silence Is the Enemy"
+      },
+      {
+        "id": 5,
+        "title": "Before I Die"
+      },
+      {
+        "id": 6,
+        "title": "Wish You Never Met Me"
+      },
+      {
+        "id": 7,
+        "title": "Give Me Back My Life"
+      },
+      {
+        "id": 8,
+        "title": "Breathe You In"
+      },
+      {
+        "id": 9,
+        "title": "Leader of the Broken Hearts"
+      },
+      {
+        "id": 10,
+        "title": "Not That Beautiful"
+      },
+      {
+        "id": 11,
+        "title": "Walking Dead"
+      },
+      {
+        "id": 12,
+        "title": "Won't Let Up"
+      }
+    ]
   },
   {
     "id": 28,
@@ -249,7 +1579,57 @@
     "releaseYear": 2015,
     "genre": "Alternative rock, hard rock",
     "sales": "Unknown",
-    "coverArt": "https://upload.wikimedia.org/wikipedia/en/e/ec/PapaRoachFEAR.png"
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/e/ec/PapaRoachFEAR.png",
+    "songs": [
+      {
+        "id": 1,
+        "title": "Face Everything and Rise"
+      },
+      {
+        "id": 2,
+        "title": "Skeletons"
+      },
+      {
+        "id": 3,
+        "title": "Broken as Me"
+      },
+      {
+        "id": 4,
+        "title": "Falling Apart"
+      },
+      {
+        "id": 5,
+        "title": "Love Me Till It Hurts"
+      },
+      {
+        "id": 6,
+        "title": "Never Have to Say Goodbye"
+      },
+      {
+        "id": 7,
+        "title": "Gravity"
+      },
+      {
+        "id": 8,
+        "title": "War Over Me"
+      },
+      {
+        "id": 9,
+        "title": "Devil"
+      },
+      {
+        "id": 10,
+        "title": "Warriors"
+      },
+      {
+        "id": 11,
+        "title": "Hope for the Hopeless"
+      },
+      {
+        "id": 12,
+        "title": "Fear Hate Love"
+      }
+    ]
   },
   {
     "id": 29,
@@ -258,7 +1638,61 @@
     "releaseYear": 2017,
     "genre": "Alternative rock, hard rock",
     "sales": "Unknown",
-    "coverArt": "https://upload.wikimedia.org/wikipedia/en/1/11/PapaRoachCrookedTeeth.jpg"
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/1/11/PapaRoachCrookedTeeth.jpg",
+    "songs": [
+      {
+        "id": 1,
+        "title": "Break the Fall"
+      },
+      {
+        "id": 2,
+        "title": "Crooked Teeth"
+      },
+      {
+        "id": 3,
+        "title": "My Medication"
+      },
+      {
+        "id": 4,
+        "title": "Born for Greatness"
+      },
+      {
+        "id": 5,
+        "title": "American Dreams"
+      },
+      {
+        "id": 6,
+        "title": "Periscope"
+      },
+      {
+        "id": 7,
+        "title": "Help"
+      },
+      {
+        "id": 8,
+        "title": "Sunrise Trailer Park"
+      },
+      {
+        "id": 9,
+        "title": "Traumatic"
+      },
+      {
+        "id": 10,
+        "title": "None of the Above"
+      },
+      {
+        "id": 11,
+        "title": "Ricochet"
+      },
+      {
+        "id": 12,
+        "title": "Nothing"
+      },
+      {
+        "id": 13,
+        "title": "Bleeding Through"
+      }
+    ]
   },
   {
     "id": 30,
@@ -267,7 +1701,57 @@
     "releaseYear": 2019,
     "genre": "Alternative rock, pop rock, hip hop",
     "sales": "Unknown",
-    "coverArt": "https://upload.wikimedia.org/wikipedia/en/4/46/Papa_Roach_%E2%80%93_Who_Do_You_Trust.png"
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/4/46/Papa_Roach_%E2%80%93_Who_Do_You_Trust.png",
+    "songs": [
+      {
+        "id": 1,
+        "title": "The Ending"
+      },
+      {
+        "id": 2,
+        "title": "Renegade Music"
+      },
+      {
+        "id": 3,
+        "title": "Not the Only One"
+      },
+      {
+        "id": 4,
+        "title": "Who Do You Trust?"
+      },
+      {
+        "id": 5,
+        "title": "Elevate"
+      },
+      {
+        "id": 6,
+        "title": "Come Around"
+      },
+      {
+        "id": 7,
+        "title": "Feel Like Home"
+      },
+      {
+        "id": 8,
+        "title": "Problems"
+      },
+      {
+        "id": 9,
+        "title": "Top of the World"
+      },
+      {
+        "id": 10,
+        "title": "I Suffer Well"
+      },
+      {
+        "id": 11,
+        "title": "Maniac"
+      },
+      {
+        "id": 12,
+        "title": "Better Than Life"
+      }
+    ]
   },
   {
     "id": 31,
@@ -276,7 +1760,81 @@
     "releaseYear": 2020,
     "genre": "Rock",
     "sales": "Unknown",
-    "coverArt": "https://napalmrecords.com/pub/media/catalog/product/cache/2c98b5dedb058b51317c19b0b945bfc5/6/5/65672-65673_papa_roach_greatest_hits_vol_2_the_better_noise_years.jpg"
+    "coverArt": "https://napalmrecords.com/pub/media/catalog/product/cache/2c98b5dedb058b51317c19b0b945bfc5/6/5/65672-65673_papa_roach_greatest_hits_vol_2_the_better_noise_years.jpg",
+    "songs": [
+      {
+        "id": 1,
+        "title": "Born for Greatness"
+      },
+      {
+        "id": 2,
+        "title": "Help"
+      },
+      {
+        "id": 3,
+        "title": "Elevate"
+      },
+      {
+        "id": 4,
+        "title": "Come Around"
+      },
+      {
+        "id": 5,
+        "title": "Broken as Me"
+      },
+      {
+        "id": 6,
+        "title": "Falling Apart"
+      },
+      {
+        "id": 7,
+        "title": "Gravity"
+      },
+      {
+        "id": 8,
+        "title": "American Dreams"
+      },
+      {
+        "id": 9,
+        "title": "Face Everything and Rise"
+      },
+      {
+        "id": 10,
+        "title": "Periscope"
+      },
+      {
+        "id": 11,
+        "title": "Still Swingin"
+      },
+      {
+        "id": 12,
+        "title": "Last Resort"
+      },
+      {
+        "id": 13,
+        "title": "Scars"
+      },
+      {
+        "id": 14,
+        "title": "Kick in the Teeth"
+      },
+      {
+        "id": 15,
+        "title": "Burn"
+      },
+      {
+        "id": 16,
+        "title": "Forever"
+      },
+      {
+        "id": 17,
+        "title": "Between Angels and Insects"
+      },
+      {
+        "id": 18,
+        "title": "Where Did the Angels Go?"
+      }
+    ]
   },
   {
     "id": 32,
@@ -285,7 +1843,53 @@
     "releaseYear": 2005,
     "genre": "Pop punk, emo",
     "sales": "Unknown",
-    "coverArt": "https://upload.wikimedia.org/wikipedia/en/4/4c/All_Time_Low_-_The_Party_Scene.PNG"
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/4/4c/All_Time_Low_-_The_Party_Scene.PNG",
+    "songs": [
+      {
+        "id": 1,
+        "title": "The Party Scene"
+      },
+      {
+        "id": 2,
+        "title": "Lullabies"
+      },
+      {
+        "id": 3,
+        "title": "Hometown Heroes; National Nobodies"
+      },
+      {
+        "id": 4,
+        "title": "Circles"
+      },
+      {
+        "id": 5,
+        "title": "We Say Summer"
+      },
+      {
+        "id": 6,
+        "title": "Break Out! Break Out!"
+      },
+      {
+        "id": 7,
+        "title": "Running from Lions"
+      },
+      {
+        "id": 8,
+        "title": "Noel"
+      },
+      {
+        "id": 9,
+        "title": "I Can't Do the One-Two Step"
+      },
+      {
+        "id": 10,
+        "title": "The Girl's a Straight-Up Hustler"
+      },
+      {
+        "id": 11,
+        "title": "Sticks, Stones, and Techno"
+      }
+    ]
   },
   {
     "id": 33,
@@ -294,7 +1898,57 @@
     "releaseYear": 2007,
     "genre": "Pop punk, power pop",
     "sales": "Platinum",
-    "coverArt": "https://upload.wikimedia.org/wikipedia/en/0/03/So_wrong_its_right.jpg"
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/0/03/So_wrong_its_right.jpg",
+    "songs": [
+      {
+        "id": 1,
+        "title": "This Is How We Do"
+      },
+      {
+        "id": 2,
+        "title": "Let It Roll"
+      },
+      {
+        "id": 3,
+        "title": "Six Feet Under the Stars"
+      },
+      {
+        "id": 4,
+        "title": "Holly (Would You Turn Me On?)"
+      },
+      {
+        "id": 5,
+        "title": "The Beach"
+      },
+      {
+        "id": 6,
+        "title": "Dear Maria, Count Me In"
+      },
+      {
+        "id": 7,
+        "title": "Shameless"
+      },
+      {
+        "id": 8,
+        "title": "Remembering Sunday"
+      },
+      {
+        "id": 9,
+        "title": "Vegas"
+      },
+      {
+        "id": 10,
+        "title": "Stay Awake (Dreams Only Last for a Night)"
+      },
+      {
+        "id": 11,
+        "title": "Come One, Come All"
+      },
+      {
+        "id": 12,
+        "title": "Poppin' Champagne"
+      }
+    ]
   },
   {
     "id": 34,
@@ -303,7 +1957,57 @@
     "releaseYear": 2009,
     "genre": "Pop punk, power pop",
     "sales": "Gold",
-    "coverArt": "https://upload.wikimedia.org/wikipedia/en/7/7e/Alltimelownothingpersonal.jpg"
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/7/7e/Alltimelownothingpersonal.jpg",
+    "songs": [
+      {
+        "id": 1,
+        "title": "Weightless"
+      },
+      {
+        "id": 2,
+        "title": "Break Your Little Heart"
+      },
+      {
+        "id": 3,
+        "title": "Damned If I Do Ya (Damned If I Don't)"
+      },
+      {
+        "id": 4,
+        "title": "Lost in Stereo"
+      },
+      {
+        "id": 5,
+        "title": "Stella"
+      },
+      {
+        "id": 6,
+        "title": "Sick Little Games"
+      },
+      {
+        "id": 7,
+        "title": "Hello, Brooklyn"
+      },
+      {
+        "id": 8,
+        "title": "Walls"
+      },
+      {
+        "id": 9,
+        "title": "Too Much"
+      },
+      {
+        "id": 10,
+        "title": "Keep the Change, You Filthy Animal"
+      },
+      {
+        "id": 11,
+        "title": "A Party Song (The Walk of Shame)"
+      },
+      {
+        "id": 12,
+        "title": "Therapy"
+      }
+    ]
   },
   {
     "id": 35,
@@ -312,7 +2016,61 @@
     "releaseYear": 2011,
     "genre": "Pop punk, power pop",
     "sales": "Gold",
-    "coverArt": "https://upload.wikimedia.org/wikipedia/en/2/29/Atl_dirtywork_cover.jpg"
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/2/29/Atl_dirtywork_cover.jpg",
+    "songs": [
+      {
+        "id": 1,
+        "title": "Do You Want Me (Dead?)"
+      },
+      {
+        "id": 2,
+        "title": "I Feel Like Dancin'"
+      },
+      {
+        "id": 3,
+        "title": "Forget About It"
+      },
+      {
+        "id": 4,
+        "title": "Guts"
+      },
+      {
+        "id": 5,
+        "title": "Time-Bomb"
+      },
+      {
+        "id": 6,
+        "title": "Just the Way I'm Not"
+      },
+      {
+        "id": 7,
+        "title": "Under a Paper Moon"
+      },
+      {
+        "id": 8,
+        "title": "Return the Favor"
+      },
+      {
+        "id": 9,
+        "title": "No Idea"
+      },
+      {
+        "id": 10,
+        "title": "A Daydream Away"
+      },
+      {
+        "id": 11,
+        "title": "That Girl"
+      },
+      {
+        "id": 12,
+        "title": "Heroes"
+      },
+      {
+        "id": 13,
+        "title": "Get Down on Your Knees and Tell Me You Love Me"
+      }
+    ]
   },
   {
     "id": 36,
@@ -321,7 +2079,65 @@
     "releaseYear": 2012,
     "genre": "Pop punk, power pop",
     "sales": "Unknown",
-    "coverArt": "https://upload.wikimedia.org/wikipedia/en/f/f3/Don%27t_Panic.jpg"
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/f/f3/Don%27t_Panic.jpg",
+    "songs": [
+      {
+        "id": 1,
+        "title": "The Reckless and the Brave"
+      },
+      {
+        "id": 2,
+        "title": "Backseat Serenade"
+      },
+      {
+        "id": 3,
+        "title": "If These Sheets Were States"
+      },
+      {
+        "id": 4,
+        "title": "Somewhere in Neverland"
+      },
+      {
+        "id": 5,
+        "title": "So Long Soldier"
+      },
+      {
+        "id": 6,
+        "title": "The Irony of Choking on a Lifesaver"
+      },
+      {
+        "id": 7,
+        "title": "Toxic Valentine"
+      },
+      {
+        "id": 8,
+        "title": "So Long, and Thanks for All the Booze"
+      },
+      {
+        "id": 9,
+        "title": "Painting Flowers"
+      },
+      {
+        "id": 10,
+        "title": "Thanks to You"
+      },
+      {
+        "id": 11,
+        "title": "For Baltimore"
+      },
+      {
+        "id": 12,
+        "title": "Oh, Calamity!"
+      },
+      {
+        "id": 13,
+        "title": "For Baltimore (Acoustic)"
+      },
+      {
+        "id": 14,
+        "title": "Somewhere in Neverland (Acoustic)"
+      }
+    ]
   },
   {
     "id": 37,
@@ -330,7 +2146,61 @@
     "releaseYear": 2015,
     "genre": "Pop punk",
     "sales": "Unknown",
-    "coverArt": "https://upload.wikimedia.org/wikipedia/en/a/a3/All_Time_Low%2C_Future_Hearts_album_cover%2C_2015.jpg"
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/a/a3/All_Time_Low%2C_Future_Hearts_album_cover%2C_2015.jpg",
+    "songs": [
+      {
+        "id": 1,
+        "title": "Satellite"
+      },
+      {
+        "id": 2,
+        "title": "Kicking & Screaming"
+      },
+      {
+        "id": 3,
+        "title": "Something's Gotta Give"
+      },
+      {
+        "id": 4,
+        "title": "Kids in the Dark"
+      },
+      {
+        "id": 5,
+        "title": "Runaways"
+      },
+      {
+        "id": 6,
+        "title": "Missing You"
+      },
+      {
+        "id": 7,
+        "title": "Cinderblock Garden"
+      },
+      {
+        "id": 8,
+        "title": "Tidal Waves"
+      },
+      {
+        "id": 9,
+        "title": "Don't You Go"
+      },
+      {
+        "id": 10,
+        "title": "Bail Me Out"
+      },
+      {
+        "id": 11,
+        "title": "Dancing with a Wolf"
+      },
+      {
+        "id": 12,
+        "title": "The Edge of Tonight"
+      },
+      {
+        "id": 13,
+        "title": "Old Scars / Future Hearts"
+      }
+    ]
   },
   {
     "id": 38,
@@ -339,7 +2209,49 @@
     "releaseYear": 2017,
     "genre": "Pop rock, alternative rock",
     "sales": "Unknown",
-    "coverArt": "https://upload.wikimedia.org/wikipedia/en/0/02/Last_Young_Renegade.jpg"
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/0/02/Last_Young_Renegade.jpg",
+    "songs": [
+      {
+        "id": 1,
+        "title": "Last Young Renegade"
+      },
+      {
+        "id": 2,
+        "title": "Drugs & Candy"
+      },
+      {
+        "id": 3,
+        "title": "Dirty Laundry"
+      },
+      {
+        "id": 4,
+        "title": "Good Times"
+      },
+      {
+        "id": 5,
+        "title": "Nice2KnoU"
+      },
+      {
+        "id": 6,
+        "title": "Life of the Party"
+      },
+      {
+        "id": 7,
+        "title": "Nightmares"
+      },
+      {
+        "id": 8,
+        "title": "Dark Side of Your Room"
+      },
+      {
+        "id": 9,
+        "title": "Ground Control"
+      },
+      {
+        "id": 10,
+        "title": "Afterglow"
+      }
+    ]
   },
   {
     "id": 39,
@@ -348,7 +2260,69 @@
     "releaseYear": 2020,
     "genre": "Pop punk, power pop",
     "sales": "Unknown",
-    "coverArt": "https://upload.wikimedia.org/wikipedia/en/a/a8/Wake_Up_Sunshine_All_Time_Low.jpg"
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/a/a8/Wake_Up_Sunshine_All_Time_Low.jpg",
+    "songs": [
+      {
+        "id": 1,
+        "title": "Some Kind of Disaster"
+      },
+      {
+        "id": 2,
+        "title": "Sleeping In"
+      },
+      {
+        "id": 3,
+        "title": "Getaway Green"
+      },
+      {
+        "id": 4,
+        "title": "Melancholy Kaleidoscope"
+      },
+      {
+        "id": 5,
+        "title": "Trouble Is"
+      },
+      {
+        "id": 6,
+        "title": "Wake Up, Sunshine"
+      },
+      {
+        "id": 7,
+        "title": "Monsters"
+      },
+      {
+        "id": 8,
+        "title": "Pretty Venom (Interlude)"
+      },
+      {
+        "id": 9,
+        "title": "Favorite Place"
+      },
+      {
+        "id": 10,
+        "title": "Safe"
+      },
+      {
+        "id": 11,
+        "title": "January Gloom (Seasons, Pt. 1)"
+      },
+      {
+        "id": 12,
+        "title": "Clumsy"
+      },
+      {
+        "id": 13,
+        "title": "Glitter & Crimson"
+      },
+      {
+        "id": 14,
+        "title": "Summer Daze (Seasons, Pt. 2)"
+      },
+      {
+        "id": 15,
+        "title": "Basement Noise"
+      }
+    ]
   },
   {
     "id": 40,
@@ -357,7 +2331,53 @@
     "releaseYear": 2011,
     "genre": "Post-hard, Rock, metalcore",
     "sales": "Gold",
-    "coverArt": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/TDIMIY.jpg/220px-TDIMIY.jpg"
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/TDIMIY.jpg/220px-TDIMIY.jpg",
+    "songs": [
+      {
+        "id": 1,
+        "title": "Raised by Wolves"
+      },
+      {
+        "id": 2,
+        "title": "Tragic Magic"
+      },
+      {
+        "id": 3,
+        "title": "The Drug in Me Is You"
+      },
+      {
+        "id": 4,
+        "title": "I'm Not a Vampire"
+      },
+      {
+        "id": 5,
+        "title": "Good Girls Bad Guys"
+      },
+      {
+        "id": 6,
+        "title": "Pick Up the Phone"
+      },
+      {
+        "id": 7,
+        "title": "Don't Mess with Ouija Boards"
+      },
+      {
+        "id": 8,
+        "title": "Sink or Swim"
+      },
+      {
+        "id": 9,
+        "title": "Caught Like a Fly"
+      },
+      {
+        "id": 10,
+        "title": "Goodbye Graceful"
+      },
+      {
+        "id": 11,
+        "title": "The Westerner"
+      }
+    ]
   },
   {
     "id": 41,
@@ -366,7 +2386,65 @@
     "releaseYear": 2013,
     "genre": "Post-hardcore, rap rock",
     "sales": "Unknown",
-    "coverArt": "https://upload.wikimedia.org/wikipedia/en/8/8b/Fashionably_Late_Cover.jpg"
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/8/8b/Fashionably_Late_Cover.jpg",
+    "songs": [
+      {
+        "id": 1,
+        "title": "Champion"
+      },
+      {
+        "id": 2,
+        "title": "Bad Girls Club"
+      },
+      {
+        "id": 3,
+        "title": "Rolling Stone"
+      },
+      {
+        "id": 4,
+        "title": "Fashionably Late"
+      },
+      {
+        "id": 5,
+        "title": "Alone"
+      },
+      {
+        "id": 6,
+        "title": "Born to Lead"
+      },
+      {
+        "id": 7,
+        "title": "It's Over When It's Over"
+      },
+      {
+        "id": 8,
+        "title": "Game Over"
+      },
+      {
+        "id": 9,
+        "title": "Self-Destruct Personality"
+      },
+      {
+        "id": 10,
+        "title": "Fuck the Rest"
+      },
+      {
+        "id": 11,
+        "title": "Keep Holding On"
+      },
+      {
+        "id": 12,
+        "title": "Drifter"
+      },
+      {
+        "id": 13,
+        "title": "Where Have You Been?"
+      },
+      {
+        "id": 14,
+        "title": "God, If You Are Above..."
+      }
+    ]
   },
   {
     "id": 42,
@@ -375,7 +2453,61 @@
     "releaseYear": 2015,
     "genre": "Post-hardcore, metalcore",
     "sales": "Unknown",
-    "coverArt": "https://upload.wikimedia.org/wikipedia/en/thumb/1/14/Just_Like_You_cover_album.jpeg/220px-Just_Like_You_cover_album.jpeg"
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/thumb/1/14/Just_Like_You_cover_album.jpeg/220px-Just_Like_You_cover_album.jpeg",
+    "songs": [
+      {
+        "id": 1,
+        "title": "Chemical Prisoner"
+      },
+      {
+        "id": 2,
+        "title": "God, If You Are Above..."
+      },
+      {
+        "id": 3,
+        "title": "Sexy Drug"
+      },
+      {
+        "id": 4,
+        "title": "Just Like You"
+      },
+      {
+        "id": 5,
+        "title": "Guillotine IV (The Final Chapter)"
+      },
+      {
+        "id": 6,
+        "title": "Stay Away"
+      },
+      {
+        "id": 7,
+        "title": "Wait and See"
+      },
+      {
+        "id": 8,
+        "title": "The Bitter End"
+      },
+      {
+        "id": 9,
+        "title": "My Heart's to Blame"
+      },
+      {
+        "id": 10,
+        "title": "Get Me Out"
+      },
+      {
+        "id": 11,
+        "title": "Die for You"
+      },
+      {
+        "id": 12,
+        "title": "Brother"
+      },
+      {
+        "id": 13,
+        "title": "My Apocalypse II"
+      }
+    ]
   },
   {
     "id": 43,
@@ -384,7 +2516,61 @@
     "releaseYear": 2017,
     "genre": "Post-hardcore, alternative rock",
     "sales": "Unknown",
-    "coverArt": "https://upload.wikimedia.org/wikipedia/en/9/96/Coming_Home_cover_album.jpeg"
+    "coverArt": "https://upload.wikimedia.org/wikipedia/en/9/96/Coming_Home_cover_album.jpeg",
+    "songs": [
+      {
+        "id": 1,
+        "title": "Coming Home"
+      },
+      {
+        "id": 2,
+        "title": "Broken"
+      },
+      {
+        "id": 3,
+        "title": "Loser"
+      },
+      {
+        "id": 4,
+        "title": "Fuck You and All Your Friends"
+      },
+      {
+        "id": 5,
+        "title": "I Hate Everyone"
+      },
+      {
+        "id": 6,
+        "title": "I'm Bad at Life"
+      },
+      {
+        "id": 7,
+        "title": "Hanging On"
+      },
+      {
+        "id": 8,
+        "title": "Superhero"
+      },
+      {
+        "id": 9,
+        "title": "Straight to Hell"
+      },
+      {
+        "id": 10,
+        "title": "I Don't Mind"
+      },
+      {
+        "id": 11,
+        "title": "The Departure"
+      },
+      {
+        "id": 12,
+        "title": "Right Now"
+      },
+      {
+        "id": 13,
+        "title": "Paparazzi"
+      }
+    ]
   },
   {
     "id": 44,
@@ -393,6 +2579,32 @@
     "releaseYear": 2020,
     "genre": "Acoustic rock",
     "sales": "Unknown",
-    "coverArt": "https://img.youtube.com/vi/B2cbhYihBWY/0.jpg"
+    "coverArt": "https://img.youtube.com/vi/B2cbhYihBWY/0.jpg",
+    "songs": [
+      {
+        "id": 1,
+        "title": "The Drug in Me Is You"
+      },
+      {
+        "id": 2,
+        "title": "Fallen Angel"
+      },
+      {
+        "id": 3,
+        "title": "Just Like You"
+      },
+      {
+        "id": 4,
+        "title": "I'm Not a Vampire"
+      },
+      {
+        "id": 5,
+        "title": "Popular Monster"
+      },
+      {
+        "id": 6,
+        "title": "The Drug in Me Is Reimagined"
+      }
+    ]
   }
 ]
