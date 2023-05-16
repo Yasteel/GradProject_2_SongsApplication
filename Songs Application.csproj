@@ -6,7 +6,16 @@
     <RootNamespace>Songs_Application</RootNamespace>
   </PropertyGroup>
   <ItemGroup>
+    <None Remove="Client\src\components\main-component.vue" />
+  </ItemGroup>
+  <ItemGroup>
+    <!--<Compile Include="Client\src\components\main-component.vue" />-->
+  </ItemGroup>
+  <ItemGroup>
     <PackageReference Include="DevExtreme.AspNet.Core" Version="22.2.4" />
     <PackageReference Include="DevExtreme.AspNet.Data" Version="2.9.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Client\src\pages\" />
   </ItemGroup>
 </Project>

@@ -4,20 +4,24 @@
     ViewData["Title"] = "Home Page";
 }
 
+@section Scripts{
+	<script src="~/pages/main-component.js"></script>
+}
+
+
 <div class="text-center">
-    <h1>Albums</h1>
+    <h1>Vue</h1>
 </div>
 
-@(
+
+<main-component></main-component>
+
+@*@(
     Html.DevExtreme().DataGrid<AlbumModel>()
         .ID("AlbumDataGrid")
         .HoverStateEnabled(true)
         .ShowBorders(true)
         .Paging(_ => _.PageSize(10))
-        @*.FilterRow(_ => _
-            .Visible(true)
-            .ApplyFilter(GridApplyFilterMode.Auto)
-        )*@
         .Columns(c =>{
             c.AddFor(_ => _.Id).Width(100);
             c.AddFor(_ => _.Title);
@@ -39,4 +43,4 @@
             .Controller("AlbumWebApi")
             .LoadAction("Get")
         )
-)
+)*@
